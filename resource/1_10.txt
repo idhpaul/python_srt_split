@@ -1,0 +1,46 @@
+10개 set 중 1개
+ffmpeg -ss <start_time> -i input.mp4 -t <end_time> -c copy output.mp4
+
+7
+00:00:27,200 --> 00:00:31,296
+which I guess makes
+the first question a little ironic:
+
+10
+00:00:34,320 --> 00:00:35,870
+I ask myself that frequently.
+
+15
+00:00:53,760 --> 00:00:59,296
+So right now, one of the most
+soul-destroying things is traffic.
+
+16
+00:00:59,320 --> 00:01:02,176
+It affects people
+in every part of the world.
+
+17
+00:01:02,200 --> 00:01:06,016
+It takes away so much of your life.
+
+18
+00:01:06,040 --> 00:01:08,016
+It's horrible.
+
+19
+00:01:08,040 --> 00:01:09,656
+It's particularly horrible in LA.
+
+22
+00:01:14,320 --> 00:01:16,774
+the first visualization
+that's been shown of this.
+
+23
+00:01:16,800 --> 00:01:18,136
+Can I show this?
+
+25
+00:01:20,880 --> 00:01:22,735
+Just to show what we're talking about.

@@ -1,0 +1,48 @@
+10개 set 중 10개
+ffmpeg -ss <start_time> -i input.mp4 -t <end_time> -c copy output.mp4
+
+510
+00:26:25,480 --> 00:26:27,736
+In many ways, that's almost
+the core competency.
+
+529
+00:27:21,200 --> 00:27:22,536
+I mean, is that speeded up?
+
+534
+00:27:31,280 --> 00:27:35,216
+you can't actually see the cells
+without a strobe light.
+
+535
+00:27:35,240 --> 00:27:36,440
+It's just blur.
+
+543
+00:27:57,480 --> 00:27:58,840
+Most likely a hundred.
+
+550
+00:28:16,640 --> 00:28:20,256
+Like, it's kind of cool
+that you can picture that project.
+
+551
+00:28:20,280 --> 00:28:24,760
+And you're planning to do, at Tesla --
+announce another two this year.
+
+557
+00:28:38,320 --> 00:28:42,376
+No more teasing from you for here?
+
+566
+00:29:06,200 --> 00:29:10,296
+I'm going to ask you one question
+about politics, only one.
+
+567
+00:29:10,320 --> 00:29:13,576
+I'm kind of sick of politics,
+but I do want to ask you this.

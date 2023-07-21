@@ -1,0 +1,50 @@
+10개 set 중 5개
+ffmpeg -ss <start_time> -i input.mp4 -t <end_time> -c copy output.mp4
+
+123
+00:06:12,600 --> 00:06:16,456
+Obviously, I do rockets,
+so I like things that fly.
+
+124
+00:06:16,480 --> 00:06:19,416
+This is not some inherent bias
+against flying things,
+
+125
+00:06:19,440 --> 00:06:22,496
+but there is a challenge with flying cars
+
+127
+00:06:25,840 --> 00:06:28,400
+the wind force generated
+will be very high.
+
+128
+00:06:32,000 --> 00:06:34,696
+Let's just say that if something's
+flying over your head,
+
+129
+00:06:34,720 --> 00:06:37,280
+a whole bunch of flying cars
+going all over the place,
+
+130
+00:06:38,440 --> 00:06:43,056
+that is not an anxiety-reducing situation.
+
+132
+00:06:45,200 --> 00:06:48,760
+You don't think to yourself,
+"Well, I feel better about today."
+
+139
+00:07:09,280 --> 00:07:12,816
+Could you apply these tunnels
+to use for this Hyperloop idea
+
+149
+00:07:41,320 --> 00:07:46,776
+So it was quite fun to do that,
+but it was kind of a hobby thing,

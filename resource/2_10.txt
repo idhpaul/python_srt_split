@@ -1,0 +1,52 @@
+10개 set 중 2개
+ffmpeg -ss <start_time> -i input.mp4 -t <end_time> -c copy output.mp4
+
+44
+00:02:19,280 --> 00:02:21,576
+it's like on a sort
+of toll road-type basis.
+
+55
+00:02:49,640 --> 00:02:56,016
+So a key rebuttal to the tunnels
+is that if you add one layer of tunnels,
+
+56
+00:02:56,040 --> 00:02:58,816
+that will simply alleviate congestion,
+it will get used up,
+
+57
+00:02:58,840 --> 00:03:02,136
+and then you'll be back where you started,
+back with congestion.
+
+64
+00:03:14,280 --> 00:03:18,056
+To give you an example,
+the LA subway extension,
+
+65
+00:03:18,080 --> 00:03:21,736
+which is -- I think it's
+a two-and-a-half mile extension
+
+66
+00:03:21,760 --> 00:03:23,999
+that was just completed
+for two billion dollars.
+
+67
+00:03:24,023 --> 00:03:29,416
+So it's roughly a billion dollars a mile
+to do the subway extension in LA.
+
+68
+00:03:29,440 --> 00:03:33,416
+And this is not the highest
+utility subway in the world.
+
+69
+00:03:33,440 --> 00:03:37,936
+So yeah, it's quite difficult
+to dig tunnels normally.

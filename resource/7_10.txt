@@ -1,0 +1,48 @@
+10개 set 중 7개
+ffmpeg -ss <start_time> -i input.mp4 -t <end_time> -c copy output.mp4
+
+201
+00:10:24,560 --> 00:10:27,136
+Maybe if you have a very sensitive
+seismic instrument,
+
+202
+00:10:27,160 --> 00:10:28,640
+you might be able to detect it.
+
+213
+00:10:50,880 --> 00:10:53,496
+This is what an Elon Musk
+hobby looks like.
+
+216
+00:10:57,040 --> 00:11:01,920
+This is basically interns
+and people doing it part time.
+
+217
+00:11:03,320 --> 00:11:08,016
+We bought some second-hand machinery.
+
+227
+00:11:38,040 --> 00:11:42,336
+A lot of people think
+that when you make cars autonomous,
+
+228
+00:11:42,360 --> 00:11:46,976
+they'll be able to go faster
+and that will alleviate congestion.
+
+229
+00:11:47,000 --> 00:11:48,896
+And to some degree that will be true,
+
+233
+00:12:02,120 --> 00:12:04,336
+Like, it will cost less than a bus ticket.
+
+234
+00:12:04,360 --> 00:12:09,416
+So the amount of driving that will occur
+will be much greater with shared autonomy,

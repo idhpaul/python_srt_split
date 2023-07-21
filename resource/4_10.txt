@@ -1,0 +1,51 @@
+10개 set 중 4개
+ffmpeg -ss <start_time> -i input.mp4 -t <end_time> -c copy output.mp4
+
+88
+00:04:36,720 --> 00:04:41,616
+Then tunneling machines currently tunnel
+for half the time, then they stop,
+
+92
+00:04:48,400 --> 00:04:50,736
+to do continuous
+tunneling and reinforcing,
+
+93
+00:04:50,760 --> 00:04:52,976
+that will give you
+a factor of two improvement.
+
+94
+00:04:53,000 --> 00:04:55,216
+Combine that and that's a factor of eight.
+
+95
+00:04:55,240 --> 00:04:59,896
+Also these machines are far from being
+at their power or thermal limits,
+
+96
+00:04:59,920 --> 00:05:02,976
+so you can jack up the power
+to the machine substantially.
+
+97
+00:05:03,000 --> 00:05:05,136
+I think you can get
+at least a factor of two,
+
+98
+00:05:05,160 --> 00:05:09,336
+maybe a factor of four or five
+improvement on top of that.
+
+99
+00:05:09,360 --> 00:05:13,576
+So I think there's a fairly
+straightforward series of steps
+
+100
+00:05:13,600 --> 00:05:16,576
+to get somewhere in excess
+of an order of magnitude improvement

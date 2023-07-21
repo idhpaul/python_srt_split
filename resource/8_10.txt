@@ -1,0 +1,48 @@
+10개 set 중 8개
+ffmpeg -ss <start_time> -i input.mp4 -t <end_time> -c copy output.mp4
+
+247
+00:12:43,280 --> 00:12:48,256
+I think almost every automaker
+has some electric vehicle program.
+
+248
+00:12:48,280 --> 00:12:49,536
+They vary in seriousness.
+
+249
+00:12:49,560 --> 00:12:53,856
+Some are very serious
+about transitioning entirely to electric,
+
+250
+00:12:53,880 --> 00:12:56,240
+and some are just dabbling in it.
+
+254
+00:13:03,960 --> 00:13:07,656
+where you can now just declare victory
+and say, you know, "We did it."
+
+255
+00:13:07,680 --> 00:13:11,760
+Let the world electrify,
+and you go on and focus on other stuff?
+
+257
+00:13:16,320 --> 00:13:20,896
+I intend to stay with Tesla
+as far into the future as I can imagine,
+
+258
+00:13:20,920 --> 00:13:25,575
+and there are a lot of exciting
+things that we have coming.
+
+259
+00:13:25,600 --> 00:13:27,776
+Obviously the Model 3 is coming soon.
+
+260
+00:13:27,800 --> 00:13:31,199
+We'll be unveiling the Tesla Semi truck.

@@ -1,0 +1,51 @@
+10개 set 중 6개
+ffmpeg -ss <start_time> -i input.mp4 -t <end_time> -c copy output.mp4
+
+151
+00:07:50,520 --> 00:07:54,880
+so we've built a little pusher car
+to push the student pods,
+
+152
+00:07:56,440 --> 00:08:00,376
+but we're going to try seeing
+how fast we can make the pusher go
+
+155
+00:08:05,080 --> 00:08:10,096
+we'll be able to be faster
+than the world's fastest bullet train
+
+155
+00:08:05,080 --> 00:08:10,096
+we'll be able to be faster
+than the world's fastest bullet train
+
+177
+00:09:07,600 --> 00:09:13,296
+what kind of length tunnel
+is in Elon's future to running Hyperloop?
+
+182
+00:09:27,040 --> 00:09:29,896
+I think you'd probably want
+to go underground the entire way
+
+183
+00:09:29,920 --> 00:09:31,536
+because it's a high-density area.
+
+184
+00:09:31,560 --> 00:09:35,616
+You're going under
+a lot of buildings and houses,
+
+191
+00:09:49,000 --> 00:09:51,880
+you will not be able
+to detect it being dug at all.
+
+199
+00:10:19,560 --> 00:10:22,536
+and once the tunnel depth
+is below a certain level,
